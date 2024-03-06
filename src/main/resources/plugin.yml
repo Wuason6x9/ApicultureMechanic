@@ -1,0 +1,9 @@
+name: ApicultureMechanic
+version: '${version}'
+main: dev.wuason.apiculturemechanic.ApicultureMechanic
+api-version: '1.20'
+load: STARTUP
+depend: [Mechanics]
+authors: [Wuason]
+description: Have fun with the bees!
+website: wiki.techmc.es
