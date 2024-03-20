@@ -1,1 +1,6 @@
 rootProject.name = 'ApicultureMechanic'
+include(":core")
+include(":nms:NMS_COMMON")
+include(":nms:WRAPPER")
+
+include(":nms:NMS_1_19_R1")
